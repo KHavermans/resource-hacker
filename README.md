@@ -1,1 +1,1 @@
-resource-hacker.exe download zonder ads
+resource-hacker.exe download
